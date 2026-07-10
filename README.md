@@ -19,5 +19,5 @@ The main goal of this analysis is to identify meaningful patterns and trends tha
 
 This dataset is **synthetically generated** for educational purposes, making it an excellent resource for practicing Exploratory Data Analysis (EDA), data visualization, and data-driven storytelling. While the data does not represent real customers, it closely resembles real-world shopping scenarios and provides a solid foundation for learning and building practical data analysis skills.
 
-This dataset is available on [![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Customer%20Shopping%20Trends-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset).
+This dataset is available on [![Kaggle Dataset](https://img.shields.io/badge/📊%20Kaggle-Customer%20Shopping%20Trends-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset).
 
