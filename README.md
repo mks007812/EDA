@@ -3,15 +3,17 @@ EDA projects will be uploaded in this repo and these projects will include data 
 
 ## Projects:
 ### 1.Book Sales
- This dataset consist of all the details related to authors and their books and all the book sales across the years.
- It includes all the genres, their publishing year and their gross sales etc.
- This dataset is available on   [Kaggle](https://www.kaggle.com/datasets/thedevastator/books-sales-and-ratings).
-  The dataset consists of several key columns that capture important attributes related to each book.
-  Books are classified into different genres or categories which are mentioned under the genre column. Genre classification allows for analyzing trends across specific literary genres or identifying patterns related to certain types of books.
-  Overall this a good dataset.
+
+This project is based on a **Books Sales, Ratings, and Publication** dataset that contains information about books, their authors, publication details, reader ratings, sales performance, and genres. The dataset provides an opportunity to explore how different factors influence a book's popularity and commercial success.
+
+The objective of this analysis is to uncover meaningful patterns through Exploratory Data Analysis (EDA). By examining trends in publication years, bestselling authors, highly rated books, genres, and sales figures, this project aims to answer key questions about the book market and reader preferences.
+
+Using Python libraries such as **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**, I performed data cleaning, statistical analysis, and visualizations to transform raw data into actionable insights. This project demonstrates my ability to analyze datasets, identify trends, and communicate findings through clear and effective visualizations.
+
+This dataset is available on [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/thedevastator/books-sales-and-ratings)
+
 
 ### 2.Shopping Trends 
- ## About the Dataset
 
 This project uses a **Customer Shopping Trends** dataset to explore how different customer characteristics influence shopping behavior. The dataset includes information such as customer demographics, purchase history, preferred payment methods, product categories, shopping frequency, discounts, and customer reviews.
 
