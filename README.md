@@ -8,3 +8,4 @@ EDA projects will be uploaded in this repo and these projects will include data 
  This dataset is available on   [Kaggle](https://www.kaggle.com/datasets/thedevastator/books-sales-and-ratings).
   The dataset consists of several key columns that capture important attributes related to each book.
   Books are classified into different genres or categories which are mentioned under the genre column. Genre classification allows for analyzing trends across specific literary genres or identifying patterns related to certain types of books.
+  Overall this a good dataset.
