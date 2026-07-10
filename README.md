@@ -10,7 +10,7 @@ The objective of this analysis is to uncover meaningful patterns through Explora
 
 Using Python libraries such as **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**, I performed data cleaning, statistical analysis, and visualizations to transform raw data into actionable insights. This project demonstrates my ability to analyze datasets, identify trends, and communicate findings through clear and effective visualizations.
 
-This dataset is available on [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/thedevastator/books-sales-and-ratings)
+This dataset is available on [Kaggle](https://www.kaggle.com/datasets/thedevastator/books-sales-and-ratings)
 
 
 ### 2.Shopping Trends 
